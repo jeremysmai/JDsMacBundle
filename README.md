@@ -1,6 +1,4 @@
 # JDsMacBundle
-
-### Here are the essential starter apps.
 Fresh System? Need apps quick? Bam.
 (Requirements: Mac OS X 10.10)
 
