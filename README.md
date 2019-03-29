@@ -8,7 +8,6 @@ Currently just a listing to must have apps on a fresh Mac System *according to J
 
  App | Details
  ---------------- | ----------------
-| Test 1 | Test2 |
 | [AppCleaner](https://freemacsoft.net/appcleaner/) | Truly delete that app, even better it's free |
 | [Atom](https://atom.io/) | hey I'm using that app to type this |
 | [KnockKnock](https://objective-see.com/products/knockknock.html) | Who accessing the network? a better firewall |
