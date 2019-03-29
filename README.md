@@ -5,19 +5,19 @@ Fresh System? Need apps quick? Bam.
 ## Applications In Bundle
 (Compressed Download Includes Solarized Theme)
 Currently just a listing to must have apps on a fresh Mac System *according to JD*
-App | Details
---- | ---
-[AppCleaner](https://freemacsoft.net/appcleaner/) | Truly delete that app, even better it's free
-[Atom](https://atom.io/) | hey I'm using that app to type this
-[KnockKnock](https://objective-see.com/products/knockknock.html) | Who accessing the network? a better firewall
-[TaskExplorer](https://objective-see.com/products/taskexplorer.html) | All tasks, root level GUI
-[Keka](https://www.keka.io/en/) | Best package unarchiver
-[Etcher](https://etcher.io/) | Write that SD card asap
-[Transmission](https://transmissionbt.com/download/) | Torrents, Without the bloated software
-[HexFiend](https://ridiculousfish.com/hexfiend/) | Peep this hex code
-[VLC](https://www.videolan.org/vlc/) | The only Video Player
-[Zenmap](https://nmap.org/download.html) | Network map
-[Firefox](https://www.mozilla.org/en-US/firefox/new/) | Best Web Browser, hands down
+| App | Details |
+-------------------- | :--------------------:
+| [AppCleaner](https://freemacsoft.net/appcleaner/) | Truly delete that app, even better it's free |
+| [Atom](https://atom.io/) | hey I'm using that app to type this |
+| [KnockKnock](https://objective-see.com/products/knockknock.html) | Who accessing the network? a better firewall |
+| [TaskExplorer](https://objective-see.com/products/taskexplorer.html) | All tasks, root level GUI |
+| [Keka](https://www.keka.io/en/) | Best package unarchiver |
+| [Etcher](https://etcher.io/) | Write that SD card asap |
+| [Transmission](https://transmissionbt.com/download/) | Torrents, Without the bloated software |
+| [HexFiend](https://ridiculousfish.com/hexfiend/) | Peep this hex code |
+| [VLC](https://www.videolan.org/vlc/) | The only Video Player |
+| [Zenmap](https://nmap.org/download.html) | Network map |
+| [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Best Web Browser, hands down |
 
 
 ## Homebrew pacakges to get
