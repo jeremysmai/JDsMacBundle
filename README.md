@@ -5,8 +5,9 @@ Fresh System? Need apps quick? Bam.
 ## Applications In Bundle
 (Compressed Download Includes Solarized Theme)
 Currently just a listing to must have apps on a fresh Mac System *according to JD*
-| App | Details |
-| ---------------- | ---------------- |
+
+ App | Details
+ ---------------- | ----------------
 | Test 1 | Test2 |
 | [AppCleaner](https://freemacsoft.net/appcleaner/) | Truly delete that app, even better it's free |
 | [Atom](https://atom.io/) | hey I'm using that app to type this |
