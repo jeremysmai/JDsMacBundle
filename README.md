@@ -23,6 +23,7 @@ Currently just a listing to must have apps on a fresh Mac System *according to J
 
 ## Homebrew packages to get
 Download [homebrew](https://brew.sh), Use terminal To install. Command: `brew install []`
+
 [Name/Command] | Details
 ---------------- | ----------------
 | [cask](https://formulae.brew.sh/formula/cask) | allows gui installation of software |
