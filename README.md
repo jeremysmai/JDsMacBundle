@@ -22,7 +22,7 @@ Currently just a listing to must have apps on a fresh Mac System *according to J
 
 
 ## Homebrew pacakges to get
-Download [homebrew](https://brew.sh), To install: 'brew install []'
+Download [homebrew](https://brew.sh), To install: `brew install []`
 - [cask](https://formulae.brew.sh/formula/cask) allows gui installation of software
 - [htop](https://formulae.brew.sh/formula/htop) display all running processes
 - [wget](https://formulae.brew.sh/formula/wget) download in terminal
