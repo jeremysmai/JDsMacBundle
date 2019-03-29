@@ -31,7 +31,7 @@ Download [homebrew](https://brew.sh), Use terminal To install. Command: `brew in
 | [wget](https://formulae.brew.sh/formula/wget) | download in terminal |
 | [nmap](https://formulae.brew.sh/formula/nmap) | network sniffer |
 | [links](https://formulae.brew.sh/formula/links) | display webpages in terminal bb |
-| [geoip](https://formulae.brew.sh/formula/geoip] | geo locate ip addresses *use command: geoiplookup* |
+| [geoip](https://formulae.brew.sh/formula/geoip) | geo locate ip addresses *use command: geoiplookup* |
 | [irssi](https://formulae.brew.sh/formula/irssi) | irc in terminal |
 | [speedtest-cli](https://formulae.brew.sh/formula/speedtest-cli) | internet speedtest (uses Ookla servers) |
 
