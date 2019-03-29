@@ -21,16 +21,18 @@ Currently just a listing to must have apps on a fresh Mac System *according to J
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Best Web Browser, hands down |
 
 
-## Homebrew pacakges to get
-Download [homebrew](https://brew.sh), To install: `brew install []`
-- [cask](https://formulae.brew.sh/formula/cask) allows gui installation of software
-- [htop](https://formulae.brew.sh/formula/htop) display all running processes
-- [wget](https://formulae.brew.sh/formula/wget) download in terminal
-- [nmap](https://formulae.brew.sh/formula/nmap) network sniffer
-- [links](https://formulae.brew.sh/formula/links) display webpages in terminal bb
-- [geoip](https://formulae.brew.sh/formula/geoip) geo locate ip addresses
-- [irssi](https://formulae.brew.sh/formula/irssi) irc in terminal
-- [speedtest-cli](https://formulae.brew.sh/formula/speedtest-cli) internet speedtest (uses Ookla servers)
+## Homebrew packages to get
+Download [homebrew](https://brew.sh), Use terminal To install. Command: `brew install []`
+[Name/Command] | Details
+---------------- | ----------------
+| [cask](https://formulae.brew.sh/formula/cask) | allows gui installation of software |
+| [htop](https://formulae.brew.sh/formula/htop) | display all running processes |
+| [wget](https://formulae.brew.sh/formula/wget) | download in terminal |
+| [nmap](https://formulae.brew.sh/formula/nmap) | network sniffer |
+| [links](https://formulae.brew.sh/formula/links) | display webpages in terminal bb |
+| [geoip](https://formulae.brew.sh/formula/geoip] | geo locate ip addresses *use command: geoiplookup* |
+| [irssi](https://formulae.brew.sh/formula/irssi) | irc in terminal |
+| [speedtest-cli](https://formulae.brew.sh/formula/speedtest-cli) | internet speedtest (uses Ookla servers) |
 
 #### To Do
 - [ ] Continue to build list
