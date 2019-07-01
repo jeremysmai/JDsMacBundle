@@ -1,6 +1,6 @@
 # JDsMacBundle
 Fresh System? Need apps quick? Bam.
-(Requirements: Mac OS X 10.10)
+(Requirements: Mac OS X 10.10) - some linux too!
 
 ## Applications In Bundle
 (Compressed Download Includes Solarized Theme)
@@ -19,7 +19,7 @@ Currently just a listing to must have apps on a fresh Mac System *according to J
 | [VLC](https://www.videolan.org/vlc/) | The only Video Player |
 | [Zenmap](https://nmap.org/download.html) | Network map |
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Best Web Browser, hands down |
-
+| [LuLu](https://objective-see.com/products/lulu.html) | Firewall, run before sketch software |
 
 ## Homebrew packages to get
 Download [homebrew](https://brew.sh), Use terminal To install. Command: `brew install []`
@@ -37,7 +37,8 @@ Download [homebrew](https://brew.sh), Use terminal To install. Command: `brew in
 
 #### To Do
 - [ ] Continue to build list
-- [ ] Eventually build a list that automatically supplies links for the newest downloads / a bundle.zip or better compression for easy storage long term USB style
+- [ ] Eventually build a list that automatically supplies links for the newest downloads / a bundle.zip or better compression for easy storage long term flash-drive style
+- [ ] add more linux entries
 
 Phantom Inc. |'' |
-Version .02
+Version .03
