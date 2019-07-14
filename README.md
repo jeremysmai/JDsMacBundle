@@ -2,6 +2,7 @@
 Fresh System? Need apps quick? Bam.
 (Requirements: Mac OS X 10.10) - some linux too!
 
+
 ## Some Fixes
 The commands below will fix some common issues you might run into when trying to install apps listed below.
 
@@ -35,6 +36,14 @@ Currently just a listing to must have apps on a fresh Mac System *according to J
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Best Web Browser, hands down |
 | [LuLu](https://objective-see.com/products/lulu.html) | Firewall, run before sketch software |
 
+## Preference Panes
+Here are a list of Preference panes that I recommend.
+
+  Name | Details
+---------------- | ----------------
+| [MenuMeters 1.9.7](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) | Menu Meters is a toolbar display for CPU, MEM, DISK, NETWORK data at a quick glance  |
+| [Java](https://www.java.com/en/download/mac_download.jsp) | Self explanitory but it's the java pane, very helpful |
+
 ## Homebrew packages to get
 Download [homebrew](https://brew.sh), Use terminal To install. Command: `brew install []`
 
@@ -51,9 +60,9 @@ Download [homebrew](https://brew.sh), Use terminal To install. Command: `brew in
 
 
 #### To Do
-- [ ] Continue to build list
 - [ ] Eventually build a list that automatically supplies links for the newest downloads / a bundle.zip or better compression for easy storage long term flash-drive style
-- [ ] add more linux entries
+- [ ] ~~add more linux entries~~ build linux version of this page :bowtie:
+
 
 Phantom Inc. |'' |
-Version .03 :man_astronaut:
+Version .04 :man_astronaut:
