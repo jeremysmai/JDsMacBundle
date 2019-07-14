@@ -2,6 +2,20 @@
 Fresh System? Need apps quick? Bam.
 (Requirements: Mac OS X 10.10) - some linux too!
 
+## TermRun
+I recommend running these commands before doing any installation below.
+
+***This allows you to see hidden files on within the GUI***
+*Paste the code below in terminal or type it out yourself :)*
+```bash
+defaults write com.apple.finder AppleShowAllFiles YES
+```
+***Using this command will allow apps to run/be installed without much intervention***
+***USE WITH CAUTION!*** *Only use if you are truly sick of going into settings > security and allowing apps to run***
+```bash
+sudo spctl --master-disable
+```
+
 ## Applications In Bundle
 (Compressed Download Includes Solarized Theme)
 Currently just a listing to must have apps on a fresh Mac System *according to JD*
@@ -35,10 +49,11 @@ Download [homebrew](https://brew.sh), Use terminal To install. Command: `brew in
 | [irssi](https://formulae.brew.sh/formula/irssi) | irc in terminal |
 | [speedtest-cli](https://formulae.brew.sh/formula/speedtest-cli) | internet speedtest (uses Ookla servers) |
 
+
 #### To Do
 - [ ] Continue to build list
 - [ ] Eventually build a list that automatically supplies links for the newest downloads / a bundle.zip or better compression for easy storage long term flash-drive style
 - [ ] add more linux entries
 
 Phantom Inc. |'' |
-Version .03
+Version .03 :man_astronaut:
