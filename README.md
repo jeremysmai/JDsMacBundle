@@ -2,8 +2,8 @@
 Fresh System? Need apps quick? Bam.
 (Requirements: Mac OS X 10.10) - some linux too!
 
-## TermRun
-I recommend running these commands before doing any installation below.
+## Some Fixes
+The commands below will fix some common issues you might run into when trying to install apps listed below.
 
 ***This allows you to see hidden files on within the GUI***
 *Paste the code below in terminal or type it out yourself :)*
@@ -11,7 +11,7 @@ I recommend running these commands before doing any installation below.
 defaults write com.apple.finder AppleShowAllFiles YES
 ```
 ***Using this command will allow apps to run/be installed without much intervention***
-***USE WITH CAUTION!*** *Only use if you are truly sick of going into settings > security and allowing apps to run***
+***USE WITH CAUTION!*** *Only use if you are truly sick of going into settings > security and allowing apps to run*
 ```bash
 sudo spctl --master-disable
 ```
