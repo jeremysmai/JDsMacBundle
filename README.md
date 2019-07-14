@@ -4,7 +4,7 @@ Fresh System? Need apps quick? Bam.
 
 
 ## Applications In Bundle
-(Compressed Download Includes Solarized Theme)
+(Compressed Download (to) Include(s) Solarized Theme)
 Currently just a listing to must have apps on a fresh Mac System *according to JD*
 
  App | Details
