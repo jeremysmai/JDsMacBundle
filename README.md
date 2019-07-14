@@ -3,20 +3,6 @@ Fresh System? Need apps quick? Bam.
 (Requirements: Mac OS X 10.10) - some linux too!
 
 
-## Some Fixes
-The commands below will fix some common issues you might run into when trying to install apps listed below.
-
-***This allows you to see hidden files on within the GUI***
-*Paste the code below in terminal or type it out yourself :)*
-```bash
-defaults write com.apple.finder AppleShowAllFiles YES
-```
-***Using this command will allow apps to run/be installed without much intervention***
-***USE WITH CAUTION!*** *Only use if you are truly sick of going into settings > security and allowing apps to run*
-```bash
-sudo spctl --master-disable
-```
-
 ## Applications In Bundle
 (Compressed Download Includes Solarized Theme)
 Currently just a listing to must have apps on a fresh Mac System *according to JD*
@@ -36,6 +22,7 @@ Currently just a listing to must have apps on a fresh Mac System *according to J
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Best Web Browser, hands down |
 | [LuLu](https://objective-see.com/products/lulu.html) | Firewall, run before sketch software |
 
+
 ## Preference Panes
 Here are a list of Preference panes that I recommend.
 
@@ -43,6 +30,7 @@ Here are a list of Preference panes that I recommend.
 ---------------- | ----------------
 | [MenuMeters 1.9.7](https://member.ipmu.jp/yuji.tachikawa/MenuMetersElCapitan/) | Menu Meters is a toolbar display for CPU, MEM, DISK, NETWORK data at a quick glance  |
 | [Java](https://www.java.com/en/download/mac_download.jsp) | Self explanitory but it's the java pane, very helpful |
+
 
 ## Homebrew packages to get
 Download [homebrew](https://brew.sh), Use terminal To install. Command: `brew install []`
@@ -58,6 +46,20 @@ Download [homebrew](https://brew.sh), Use terminal To install. Command: `brew in
 | [irssi](https://formulae.brew.sh/formula/irssi) | irc in terminal |
 | [speedtest-cli](https://formulae.brew.sh/formula/speedtest-cli) | internet speedtest (uses Ookla servers) |
 
+
+## Some Fixes
+The commands below will fix some common issues you might run into when trying to install apps listed below.
+
+***This allows you to see hidden files on within the GUI***
+*Paste the code below in terminal or type it out yourself :)*
+```bash
+defaults write com.apple.finder AppleShowAllFiles YES
+```
+***Using this command will allow apps to run/be installed without much intervention***
+***USE WITH CAUTION!*** *Only use if you are truly sick of going into settings > security and allowing apps to run*
+```bash
+sudo spctl --master-disable
+```
 
 #### To Do
 - [ ] Eventually build a list that automatically supplies links for the newest downloads / a bundle.zip or better compression for easy storage long term flash-drive style
