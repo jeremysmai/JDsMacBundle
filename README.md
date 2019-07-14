@@ -4,8 +4,8 @@ Fresh System? Need apps quick? Bam.
 
 
 ## Applications In Bundle
-(Compressed Download (to) Include(s) Solarized Theme)
-Currently just a listing to must have apps on a fresh Mac System *according to JD*
+(Compressed Download (to) Include Solarized Themes)
+Currently just a listing to must have apps on a fresh Mac System *according to jeremysmai*
 
  App | Details
  ---------------- | ----------------
@@ -46,6 +46,13 @@ Download [homebrew](https://brew.sh), Use terminal To install. Command: `brew in
 | [irssi](https://formulae.brew.sh/formula/irssi) | irc in terminal |
 | [speedtest-cli](https://formulae.brew.sh/formula/speedtest-cli) | internet speedtest (uses Ookla servers) |
 
+## Helpful Terminal commands
+Below are a list of helpful commands and links to helpful tips on Terminal and it's ways...
+
+[Name/Command] | Details
+---------------- | ----------------
+|||
+
 
 ## Some Fixes
 The commands below will fix some common issues you might run into when trying to install apps listed below.
@@ -67,4 +74,4 @@ sudo spctl --master-disable
 
 
 Phantom Inc. |'' |
-Version .04 :man_astronaut:
+Version .05 :man_astronaut:
