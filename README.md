@@ -70,7 +70,8 @@ sudo spctl --master-disable
 ```
 
 ## rEFInd (Use with caution)
-
+  |  
+---------------- | ----------------
 | [rEFInd](http://sourceforge.net/projects/refind/files/0.11.4/refind-bin-0.11.4.zip/download) | For multi-booting with Mac OS X see [this](https://www.rodsbooks.com/refind/installing.html) for reference |
 
 #### To Do
