@@ -19,6 +19,7 @@ Currently just a listing to must have apps on a fresh Mac System *according to j
 | [HexFiend](https://ridiculousfish.com/hexfiend/) | Peep this hex code |
 | [VLC](https://www.videolan.org/vlc/) | The only Video Player |
 | [Zenmap](https://nmap.org/download.html) | Network map |
+| [Wireshark](https://www.wireshark.org/) | Network packet capturing tool, many uses! |
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/) | Best Web Browser, hands down |
 | [LuLu](https://objective-see.com/products/lulu.html) | Firewall, run before sketch software |
 
@@ -67,6 +68,11 @@ defaults write com.apple.finder AppleShowAllFiles YES
 ```bash
 sudo spctl --master-disable
 ```
+
+## Refind (Use with caution)
+[Name/] | Details
+---------------- | ----------------
+| [refind](http://sourceforge.net/projects/refind/files/0.11.4/refind-bin-0.11.4.zip/download) | For multi-booting with Mac OS X see [this](https://www.rodsbooks.com/refind/installing.html) for reference |
 
 #### To Do
 - [ ] Eventually build a list that automatically supplies links for the newest downloads / a bundle.zip or better compression for easy storage long term flash-drive style
