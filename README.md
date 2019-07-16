@@ -69,10 +69,9 @@ defaults write com.apple.finder AppleShowAllFiles YES
 sudo spctl --master-disable
 ```
 
-## Refind (Use with caution)
-[Name/] | Details
+## rEFInd (Use with caution)
 ---------------- | ----------------
-| [refind](http://sourceforge.net/projects/refind/files/0.11.4/refind-bin-0.11.4.zip/download) | For multi-booting with Mac OS X see [this](https://www.rodsbooks.com/refind/installing.html) for reference |
+| [rEFInd](http://sourceforge.net/projects/refind/files/0.11.4/refind-bin-0.11.4.zip/download) | For multi-booting with Mac OS X see [this](https://www.rodsbooks.com/refind/installing.html) for reference |
 
 #### To Do
 - [ ] Eventually build a list that automatically supplies links for the newest downloads / a bundle.zip or better compression for easy storage long term flash-drive style
