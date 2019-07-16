@@ -58,7 +58,7 @@ Below are a list of helpful commands and links to helpful tips on Terminal and i
 ## Some Fixes
 The commands below will fix some common issues you might run into when trying to install apps listed below.
 
-***This allows you to see hidden files on within the GUI***
+***This allows you to see hidden files within the GUI***
 *Paste the code below in terminal or type it out yourself :)*
 ```bash
 defaults write com.apple.finder AppleShowAllFiles YES
